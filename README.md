@@ -9,7 +9,7 @@
 
 - [Qualys VMDR Certified](https://github.com/yvette4887/yvette4887/blob/main/QualysImage.png)
 - [Cisco Intro to Cybersecurity](https://github.com/yvette4887/yvette4887/blob/main/Cisco%20Image.png)
-- [IBM IT Fundamentals for Cybersecurity ](https://github.com/yvette4887/yvette4887/blob/main/Cisco%20Image.png)
+- [IBM IT Fundamentals for Cybersecurity ](https://github.com/yvette4887/yvette4887/blob/main/IBMImage.png)
 
 <h2>👨‍💻 Popular YouTube Videos:</h2>
 
