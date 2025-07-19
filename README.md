@@ -17,6 +17,8 @@
 
 <h2>👨‍💻 Connect With Me:</h2>
 
+- [Linkedin](https://www.linkedin.com/in/yolandayjohnson/)
+
 <!--
 **yvette4887/yvette4887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
