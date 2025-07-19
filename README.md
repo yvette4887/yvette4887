@@ -7,6 +7,9 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
+  - <b>Qualys VMDR Certified</b>
+   - [Nessus Tutorial for Beginners](https://www.youtube.com/watch?v=lT6Px9zJM3s&t=359s)
+
 <h2>👨‍💻 Popular YouTube Videos:</h2>
 
 <h2>👨‍💻 Connect With Me:</h2>
