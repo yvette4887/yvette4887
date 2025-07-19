@@ -8,7 +8,7 @@
 <h2>👨‍💻 Certifications:</h2>
 
 - [Qualys VMDR Certified](https://github.com/yvette4887/yvette4887/blob/main/QualysImage.png)
- 
+- [Cisco Intro to Cybersecurity](https://github.com/yvette4887/yvette4887/blob/main/QualysImage.png)
 
 <h2>👨‍💻 Popular YouTube Videos:</h2>
 
