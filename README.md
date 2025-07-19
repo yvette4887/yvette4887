@@ -7,11 +7,12 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-
-  - <b>Qualys VMDR Certified</b>
-   - [Nessus Tutorial for Beginners](https://github.com/yvette4887/yvette4887/blob/main/QualysImage.png)
+- [Qualys VMDR Certified](https://github.com/yvette4887/yvette4887/blob/main/QualysImage.png)
+ 
 
 <h2>👨‍💻 Popular YouTube Videos:</h2>
+
+
 
 <h2>👨‍💻 Connect With Me:</h2>
 
